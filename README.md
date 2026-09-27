@@ -249,7 +249,7 @@ CPU-Scheduling/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/isaniul111/CPU-Scheduling.git
+git clone https://github.com/mstnasrinakterprome/CPU-Scheduling.git
 ```
 
 ### 2. Navigate to the project
@@ -382,10 +382,10 @@ Possible future enhancements include:
 
 ## 👨‍💻 Author
 
-**Saniul Islam**
+**Mst. Nasrin Akter Prome**
 
 GitHub:  
-https://github.com/isaniul111
+https://github.com/mstnasrinakterprome
 
 ---
 
